@@ -191,7 +191,7 @@
 		"vscode-test": "^1.6.1"
 	},
 	"dependencies": {
-		"adm-zip": "^0.5.9",
+		"adm-zip": "^0.6.1",
 		"https-proxy-agent": "^5.0.0",
 		"json5": "^2.2.1",
 		"node-fetch": "^2.6.7",
